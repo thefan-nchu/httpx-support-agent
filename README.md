@@ -67,7 +67,7 @@ macOS / Linux 使用：
 使用 Ragas 0.4.3 对同一批已存端到端结果做复评，保留原答复和原检索前五证据。下表为按题均值。参考文本来自 audited-v4 的冻结答案要点。模型裁判为 qwen3.8-flash，向量模型为 qwen3.7-text-embedding-flash。
 
 | 指标 | 衡量内容 | 均值 |
-| --- | --- | ---: | ---: |
+| --- | --- | ---: |
 | Context Precision | 相关证据是否排在前面 | 0.725 |
 | Context Recall | 前五证据是否覆盖参考要点 | 0.729 |
 | Context Relevance | 证据整体是否与问题相关 | 0.763 |
