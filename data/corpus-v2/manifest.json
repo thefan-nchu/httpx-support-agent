@@ -1,0 +1,237 @@
+{
+  "dataset": "HTTPX official docs",
+  "version": "0.28.1",
+  "commit": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+  "records": [
+    {
+      "id": "docs__advanced__authentication.md",
+      "kind": "doc",
+      "title": "docs/advanced/authentication.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/authentication.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/authentication.md",
+      "path": "raw/docs__advanced__authentication.md",
+      "sha256": "490c0393f5af1bdcf70ed5dc6e296d75f4a4035d1916f2262102de61c623dc04"
+    },
+    {
+      "id": "docs__advanced__clients.md",
+      "kind": "doc",
+      "title": "docs/advanced/clients.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/clients.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/clients.md",
+      "path": "raw/docs__advanced__clients.md",
+      "sha256": "80d0496f33dc995d40ebb573301b0de360fbe90dffd4a0641a078701e5abaac0"
+    },
+    {
+      "id": "docs__advanced__event-hooks.md",
+      "kind": "doc",
+      "title": "docs/advanced/event-hooks.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/event-hooks.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/event-hooks.md",
+      "path": "raw/docs__advanced__event-hooks.md",
+      "sha256": "96d292f95b3412c54f7f862fd38a569b0efb2bd51a6cacdd5b391072262b9558"
+    },
+    {
+      "id": "docs__advanced__extensions.md",
+      "kind": "doc",
+      "title": "docs/advanced/extensions.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/extensions.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/extensions.md",
+      "path": "raw/docs__advanced__extensions.md",
+      "sha256": "b0fb02059b00203114478faa48a808fd16a8b004e6c50cab672a7d63ee6c496f"
+    },
+    {
+      "id": "docs__advanced__proxies.md",
+      "kind": "doc",
+      "title": "docs/advanced/proxies.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/proxies.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/proxies.md",
+      "path": "raw/docs__advanced__proxies.md",
+      "sha256": "38f3be3b3babe015f9b9878c8ed207144e860a572b5c1dbf8eb7924d4a738960"
+    },
+    {
+      "id": "docs__advanced__resource-limits.md",
+      "kind": "doc",
+      "title": "docs/advanced/resource-limits.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/resource-limits.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/resource-limits.md",
+      "path": "raw/docs__advanced__resource-limits.md",
+      "sha256": "48463dfbcc09e28b174cf07695a937119da537436dc534421b64dcca7a024559"
+    },
+    {
+      "id": "docs__advanced__ssl.md",
+      "kind": "doc",
+      "title": "docs/advanced/ssl.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/ssl.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/ssl.md",
+      "path": "raw/docs__advanced__ssl.md",
+      "sha256": "96dc8e954c5965bcf2ee68f436a143bcc8dab3cd647aa1631c1190593d241831"
+    },
+    {
+      "id": "docs__advanced__text-encodings.md",
+      "kind": "doc",
+      "title": "docs/advanced/text-encodings.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/text-encodings.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/text-encodings.md",
+      "path": "raw/docs__advanced__text-encodings.md",
+      "sha256": "6810e718430df5676d2102cbc35ea3388f2c0fb442f8162bf9548c9596f741cc"
+    },
+    {
+      "id": "docs__advanced__timeouts.md",
+      "kind": "doc",
+      "title": "docs/advanced/timeouts.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/timeouts.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/timeouts.md",
+      "path": "raw/docs__advanced__timeouts.md",
+      "sha256": "48959a587ecc6430f9051ab1b1c76fcebc3f3e95ec01199281aab813a2dcfaa1"
+    },
+    {
+      "id": "docs__advanced__transports.md",
+      "kind": "doc",
+      "title": "docs/advanced/transports.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/transports.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/transports.md",
+      "path": "raw/docs__advanced__transports.md",
+      "sha256": "55648dd15c551f151f538aa79c8d2934bb581528d85bcc0fe3d810ac4a5ca382"
+    },
+    {
+      "id": "docs__api.md",
+      "kind": "doc",
+      "title": "docs/api.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/api.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/api.md",
+      "path": "raw/docs__api.md",
+      "sha256": "125c23b40867cea7c40da59d129515e0964b4ea80e2994293e850f12fb067a6e"
+    },
+    {
+      "id": "docs__async.md",
+      "kind": "doc",
+      "title": "docs/async.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/async.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/async.md",
+      "path": "raw/docs__async.md",
+      "sha256": "dd32e675ef994bb136e5414e5a2636db6e75418ce557ee6f731fddb924e47e4e"
+    },
+    {
+      "id": "docs__code_of_conduct.md",
+      "kind": "doc",
+      "title": "docs/code_of_conduct.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/code_of_conduct.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/code_of_conduct.md",
+      "path": "raw/docs__code_of_conduct.md",
+      "sha256": "711021e871cb55ba15ae4fc040e404e5edece35f649fcbe517126382e7e4f30f"
+    },
+    {
+      "id": "docs__compatibility.md",
+      "kind": "doc",
+      "title": "docs/compatibility.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/compatibility.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/compatibility.md",
+      "path": "raw/docs__compatibility.md",
+      "sha256": "e30d0a254fc89e5a891739607e289432b48930ac68be285810dd4e540f304776"
+    },
+    {
+      "id": "docs__contributing.md",
+      "kind": "doc",
+      "title": "docs/contributing.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/contributing.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/contributing.md",
+      "path": "raw/docs__contributing.md",
+      "sha256": "88182650dd83fc38ac39de2fa8cadbee937ff72afdbdd7d4721f4e84aef2f520"
+    },
+    {
+      "id": "docs__environment_variables.md",
+      "kind": "doc",
+      "title": "docs/environment_variables.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/environment_variables.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/environment_variables.md",
+      "path": "raw/docs__environment_variables.md",
+      "sha256": "d0cdf4d740dc3ed8b21c4ee45735551e05d4e57d0fda05a2f18c4684197a27eb"
+    },
+    {
+      "id": "docs__exceptions.md",
+      "kind": "doc",
+      "title": "docs/exceptions.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/exceptions.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/exceptions.md",
+      "path": "raw/docs__exceptions.md",
+      "sha256": "5e59ac5575373f359c45b8685cfb5813ba8d3a834052c7c0427789b32722324f"
+    },
+    {
+      "id": "docs__http2.md",
+      "kind": "doc",
+      "title": "docs/http2.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/http2.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/http2.md",
+      "path": "raw/docs__http2.md",
+      "sha256": "51010101b5aff566dcdfdf94cb5e0ef644caf5411b84749753a9da79d28caaf7"
+    },
+    {
+      "id": "docs__index.md",
+      "kind": "doc",
+      "title": "docs/index.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/index.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/index.md",
+      "path": "raw/docs__index.md",
+      "sha256": "07edc3ef5d9d5c5e404b25abe5762f83c6c25a68cf7e556e5c52f4c86387c36b"
+    },
+    {
+      "id": "docs__logging.md",
+      "kind": "doc",
+      "title": "docs/logging.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/logging.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/logging.md",
+      "path": "raw/docs__logging.md",
+      "sha256": "cf128dd9d45561d57807fb34c00c2fff63071dbbfcb3990df00c7061bea88195"
+    },
+    {
+      "id": "docs__quickstart.md",
+      "kind": "doc",
+      "title": "docs/quickstart.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/quickstart.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/quickstart.md",
+      "path": "raw/docs__quickstart.md",
+      "sha256": "9f8351551dd18be0ed7e40dea2f1c231523a2e8833a0bb5c471630178ec2aea8"
+    },
+    {
+      "id": "docs__third_party_packages.md",
+      "kind": "doc",
+      "title": "docs/third_party_packages.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/third_party_packages.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/third_party_packages.md",
+      "path": "raw/docs__third_party_packages.md",
+      "sha256": "211bc5d5c82adc4b38b882ac58b7387a828a3c65e1b348d5a245d3de48a0fd4e"
+    },
+    {
+      "id": "docs__troubleshooting.md",
+      "kind": "doc",
+      "title": "docs/troubleshooting.md",
+      "version": "0.28.1",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/troubleshooting.md",
+      "download_url": "https://raw.githubusercontent.com/encode/httpx/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/troubleshooting.md",
+      "path": "raw/docs__troubleshooting.md",
+      "sha256": "3a9f68c58a03575ac88ce94da22d2f7c93d2e88df54e7f9be1061ca6fafd3c96"
+    }
+  ]
+}

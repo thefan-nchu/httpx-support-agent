@@ -1,0 +1,164 @@
+{
+  "dataset": "encode/httpx official snapshot",
+  "version": "0.28.1",
+  "commit": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+  "retrieved_at": "2026-10-30T08:20:28.529730+00:00",
+  "readonly_inputs": true,
+  "records": [
+    {
+      "id": "docs__quickstart.md",
+      "kind": "doc",
+      "title": "docs/quickstart.md",
+      "version": "0.28.1",
+      "commit": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/quickstart.md",
+      "download_url": "https://api.github.com/repos/encode/httpx/contents/docs/quickstart.md?ref=26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "path": "raw/docs__quickstart.md",
+      "sha256": "9f8351551dd18be0ed7e40dea2f1c231523a2e8833a0bb5c471630178ec2aea8"
+    },
+    {
+      "id": "docs__exceptions.md",
+      "kind": "doc",
+      "title": "docs/exceptions.md",
+      "version": "0.28.1",
+      "commit": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/exceptions.md",
+      "download_url": "https://api.github.com/repos/encode/httpx/contents/docs/exceptions.md?ref=26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "path": "raw/docs__exceptions.md",
+      "sha256": "5e59ac5575373f359c45b8685cfb5813ba8d3a834052c7c0427789b32722324f"
+    },
+    {
+      "id": "docs__async.md",
+      "kind": "doc",
+      "title": "docs/async.md",
+      "version": "0.28.1",
+      "commit": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/async.md",
+      "download_url": "https://api.github.com/repos/encode/httpx/contents/docs/async.md?ref=26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "path": "raw/docs__async.md",
+      "sha256": "dd32e675ef994bb136e5414e5a2636db6e75418ce557ee6f731fddb924e47e4e"
+    },
+    {
+      "id": "docs__advanced__timeouts.md",
+      "kind": "doc",
+      "title": "docs/advanced/timeouts.md",
+      "version": "0.28.1",
+      "commit": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/timeouts.md",
+      "download_url": "https://api.github.com/repos/encode/httpx/contents/docs/advanced/timeouts.md?ref=26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "path": "raw/docs__advanced__timeouts.md",
+      "sha256": "48959a587ecc6430f9051ab1b1c76fcebc3f3e95ec01199281aab813a2dcfaa1"
+    },
+    {
+      "id": "docs__advanced__resource-limits.md",
+      "kind": "doc",
+      "title": "docs/advanced/resource-limits.md",
+      "version": "0.28.1",
+      "commit": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/resource-limits.md",
+      "download_url": "https://api.github.com/repos/encode/httpx/contents/docs/advanced/resource-limits.md?ref=26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "path": "raw/docs__advanced__resource-limits.md",
+      "sha256": "48463dfbcc09e28b174cf07695a937119da537436dc534421b64dcca7a024559"
+    },
+    {
+      "id": "docs__advanced__proxies.md",
+      "kind": "doc",
+      "title": "docs/advanced/proxies.md",
+      "version": "0.28.1",
+      "commit": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/proxies.md",
+      "download_url": "https://api.github.com/repos/encode/httpx/contents/docs/advanced/proxies.md?ref=26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "path": "raw/docs__advanced__proxies.md",
+      "sha256": "38f3be3b3babe015f9b9878c8ed207144e860a572b5c1dbf8eb7924d4a738960"
+    },
+    {
+      "id": "docs__advanced__ssl.md",
+      "kind": "doc",
+      "title": "docs/advanced/ssl.md",
+      "version": "0.28.1",
+      "commit": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/ssl.md",
+      "download_url": "https://api.github.com/repos/encode/httpx/contents/docs/advanced/ssl.md?ref=26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "path": "raw/docs__advanced__ssl.md",
+      "sha256": "96dc8e954c5965bcf2ee68f436a143bcc8dab3cd647aa1631c1190593d241831"
+    },
+    {
+      "id": "docs__advanced__transports.md",
+      "kind": "doc",
+      "title": "docs/advanced/transports.md",
+      "version": "0.28.1",
+      "commit": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/transports.md",
+      "download_url": "https://api.github.com/repos/encode/httpx/contents/docs/advanced/transports.md?ref=26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "path": "raw/docs__advanced__transports.md",
+      "sha256": "55648dd15c551f151f538aa79c8d2934bb581528d85bcc0fe3d810ac4a5ca382"
+    },
+    {
+      "id": "docs__advanced__clients.md",
+      "kind": "doc",
+      "title": "docs/advanced/clients.md",
+      "version": "0.28.1",
+      "commit": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/advanced/clients.md",
+      "download_url": "https://api.github.com/repos/encode/httpx/contents/docs/advanced/clients.md?ref=26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "path": "raw/docs__advanced__clients.md",
+      "sha256": "80d0496f33dc995d40ebb573301b0de360fbe90dffd4a0641a078701e5abaac0"
+    },
+    {
+      "id": "docs__environment_variables.md",
+      "kind": "doc",
+      "title": "docs/environment_variables.md",
+      "version": "0.28.1",
+      "commit": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/docs/environment_variables.md",
+      "download_url": "https://api.github.com/repos/encode/httpx/contents/docs/environment_variables.md?ref=26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "path": "raw/docs__environment_variables.md",
+      "sha256": "d0cdf4d740dc3ed8b21c4ee45735551e05d4e57d0fda05a2f18c4684197a27eb"
+    },
+    {
+      "id": "CHANGELOG.md",
+      "kind": "doc",
+      "title": "CHANGELOG.md",
+      "version": "0.28.1",
+      "commit": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "url": "https://github.com/encode/httpx/blob/26d48e0634e6ee9cdc0533996db289ce4b430177/CHANGELOG.md",
+      "download_url": "https://api.github.com/repos/encode/httpx/contents/CHANGELOG.md?ref=26d48e0634e6ee9cdc0533996db289ce4b430177",
+      "path": "raw/CHANGELOG.md",
+      "sha256": "2cd04b965b20eff7a4d3b30cc020c63b125da9f731874513bad2e59ca9743258"
+    }
+  ],
+  "failures": [
+    {
+      "source": "https://api.github.com/repos/encode/httpx/issues/3100",
+      "error": "HTTPStatusError"
+    },
+    {
+      "source": "https://api.github.com/repos/encode/httpx/issues/3043",
+      "error": "HTTPStatusError"
+    },
+    {
+      "source": "https://api.github.com/repos/encode/httpx/issues/2959",
+      "error": "HTTPStatusError"
+    },
+    {
+      "source": "https://api.github.com/repos/encode/httpx/issues/2941",
+      "error": "HTTPStatusError"
+    },
+    {
+      "source": "https://api.github.com/repos/encode/httpx/issues/2879",
+      "error": "ExcludedPullRequest"
+    },
+    {
+      "source": "https://api.github.com/repos/encode/httpx/issues/2662",
+      "error": "HTTPStatusError"
+    },
+    {
+      "source": "https://api.github.com/repos/encode/httpx/issues/2056",
+      "error": "HTTPStatusError"
+    },
+    {
+      "source": "https://api.github.com/repos/encode/httpx/issues/1719",
+      "error": "HTTPStatusError"
+    }
+  ]
+}
