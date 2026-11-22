@@ -72,12 +72,6 @@ macOS / Linux 使用：
 | Context Recall | 前五证据是否覆盖参考要点 | 0.729 |
 | Context Relevance | 证据整体是否与问题相关 | 0.763 |
 | Faithfulness | 最终技术结论能否由检索上下文支持 | 0.815 |
-| Answer Relevancy | 完整答复与用户问题有多相关 | 0.547 |
-| Answer Correctness | 技术结论与参考要点有多一致 | 0.342 |
-| Semantic Similarity | 技术结论与参考要点的向量相似程度 | 0.661 |
 
-41 道登记题中有 1 道预先排除、1 道原运行失败。答复相关性纳入 4 道无技术结论的回复；技术结论指标只评有结论的题，需要参考的指标还要求冻结参考要点。Context Precision 的 2 道结构失败和 Answer Correctness 的 1 道请求失败单列。正确性包含事实匹配和语义相似，分数会受到冻结参考要点的范围与质量影响。各项独立报告。
-
-逐题复核发现，#2653 的 Context Recall 是 1.00，Answer Correctness 约 0.190。证据有 SOCKS 可选依赖的安装说明，最终答复却只讨论了代理配置。#1610 的 Faithfulness 是 1.00，通用代理说明虽然有出处，仍没有解释用户的 EOF 报错。这两题分别提示了**漏答关键条件**和**引用有据但回答不适用**的问题。[Ragas 0.4.3 指标定义](https://docs.ragas.io/en/v0.4.3/concepts/metrics/available_metrics/)
 
 发布包含运行所需官方语料和独立测试。上述历史指标是项目实测摘要，发布包不含真实 Issue 原帖、冻结评测集和内部原始答复，不能仅靠本包复算历史结果。更多细节见 [设计与评测说明](docs/DESIGN.md)。
