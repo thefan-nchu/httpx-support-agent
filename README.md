@@ -66,15 +66,15 @@ macOS / Linux 使用：
 
 使用 Ragas 0.4.3 对同一批已存端到端结果做复评，保留原答复和原检索前五证据。下表为按题均值。参考文本来自 audited-v4 的冻结答案要点。模型裁判为 qwen3.8-flash，向量模型为 qwen3.7-text-embedding-flash。
 
-| 指标 | 衡量内容 | 有效 / 适用 | 均值 |
+| 指标 | 衡量内容 | 均值 |
 | --- | --- | ---: | ---: |
-| Context Precision | 相关证据是否排在前面 | 22/24 | 0.725 |
-| Context Recall | 前五证据是否覆盖参考要点 | 24/24 | 0.729 |
-| Context Relevance | 证据整体是否与问题相关 | 39/39 | 0.763 |
-| Faithfulness | 最终技术结论能否由检索上下文支持 | 35/35 | 0.815 |
-| Answer Relevancy | 完整答复与用户问题有多相关 | 39/39 | 0.547 |
-| Answer Correctness | 技术结论与参考要点有多一致 | 22/23 | 0.342 |
-| Semantic Similarity | 技术结论与参考要点的向量相似程度 | 23/23 | 0.661 |
+| Context Precision | 相关证据是否排在前面 | 0.725 |
+| Context Recall | 前五证据是否覆盖参考要点 | 0.729 |
+| Context Relevance | 证据整体是否与问题相关 | 0.763 |
+| Faithfulness | 最终技术结论能否由检索上下文支持 | 0.815 |
+| Answer Relevancy | 完整答复与用户问题有多相关 | 0.547 |
+| Answer Correctness | 技术结论与参考要点有多一致 | 0.342 |
+| Semantic Similarity | 技术结论与参考要点的向量相似程度 | 0.661 |
 
 41 道登记题中有 1 道预先排除、1 道原运行失败。答复相关性纳入 4 道无技术结论的回复；技术结论指标只评有结论的题，需要参考的指标还要求冻结参考要点。Context Precision 的 2 道结构失败和 Answer Correctness 的 1 道请求失败单列。正确性包含事实匹配和语义相似，分数会受到冻结参考要点的范围与质量影响。各项独立报告。
 
